@@ -1,4 +1,4 @@
-# SmartBrain-api - v2
+# Backend API server for the Facial Regconition Web App
 Final project for Udemy course
 
 1. Clone this repo
